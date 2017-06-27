@@ -1,4 +1,11 @@
 在网址加前缀
 
 
-htmlpreview.github.io/?
+http://htmlpreview.github.io/?
+
+
+太平洋
+http://htmlpreview.github.io/?https://github.com/840242164/taipingyang/blob/master/index.html
+
+bootstrap
+http://htmlpreview.github.io/?https://github.com/840242164/bootstrap-project/blob/master/index.html
